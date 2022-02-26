@@ -15,7 +15,7 @@
   "require": {
     "php": "^7.4|8.*",
     "nesbot/carbon": "^2.28",
-    "spatie/enum": "^2.3",
+    "spatie/enum": "^3.12",
     "tightenco/collect": "^6.9"
   },
   "require-dev": {
